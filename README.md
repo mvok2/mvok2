@@ -1,16 +1,18 @@
-## Hi there 👋
+## yo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
 
-<!--
-**mvok2/mvok2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+call me **mvok** :P
 
-Here are some ideas to get you started:
+i dont do labels like "fullstack" or whatever. just here to build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### stuff i use
+<img src="https://skillicons.dev/icons?i=robloxstudio, blender, vscode, python" />
+<img src="https://skillicons.dev/icons?i=arch, windows" />
+
+i know OOP, modules, and all that good stuff in both Python and Lua.
+i make tools to help other devs and regular people.
+
+might start teaching **C#** and **Java** someday… maybe.
+
+im lil lazy, ngl.
+
+ill start uploading stuff ***soon***
