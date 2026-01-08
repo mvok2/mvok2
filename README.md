@@ -2,13 +2,13 @@
 
 call me **mvok** :P
 
-i dont do labels like "fullstack" or whatever. just here to build.
+i dont do labels like "fullstack" or whatever.
 
 ### stuff i use
 <img src="https://skillicons.dev/icons?i=robloxstudio,blender,vscode,python" />
 <img src="https://skillicons.dev/icons?i=arch,windows" />
 
-i know OOP, modules, and all that good stuff in both Python and Lua.
+i know OOP, modules, and all that good stuff in both Python and Luau.
 i make tools to help other devs and regular people.
 
 might start teaching **C#** and **Java** someday… maybe.
