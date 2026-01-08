@@ -5,8 +5,8 @@ call me **mvok** :P
 i dont do labels like "fullstack" or whatever. just here to build.
 
 ### stuff i use
-<img src="https://skillicons.dev/icons?i=robloxstudio, blender, vscode, python" />
-<img src="https://skillicons.dev/icons?i=arch, windows" />
+<img src="https://skillicons.dev/icons?i=robloxstudio,blender,vscode,python" />
+<img src="https://skillicons.dev/icons?i=arch,windows" />
 
 i know OOP, modules, and all that good stuff in both Python and Lua.
 i make tools to help other devs and regular people.
