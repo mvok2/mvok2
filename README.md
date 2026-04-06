@@ -5,7 +5,7 @@ call me **mvok** :P
 i dont do labels like "fullstack" or whatever.
 
 ### stuff i use
-<img src="https://skillicons.dev/icons?i=robloxstudio,blender,vscode,python" />
+<img src="https://skillicons.dev/icons?i=robloxstudio,blender,vscode,python,csharp,lua" />
 <img src="https://skillicons.dev/icons?i=arch,windows" />
 
 i know OOP, modules, and all that good stuff in both Python and Luau.
