@@ -1,4 +1,4 @@
-<div align="center">
+
   
   ## yo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="28" height="28" />
   
@@ -6,7 +6,6 @@
   
   *i dont do labels like "fullstack" or whatever.*
   
-</div>
 
 ---
 
