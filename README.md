@@ -20,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=lua" height="42" alt="lua" />
   <img width="8" />
   <!-- Middle -->
-  <img src="https://skillicons.dev/icons?i=unity" height="42" alt="unity" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=robloxstudio" height="42" alt="roblox studio" />
   <img width="8" />
