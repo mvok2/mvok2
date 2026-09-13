@@ -36,10 +36,7 @@
 <div align="center">
   
   i know OOP, modules, and all that good stuff in both **Python** and **Luau**  
-  i make tools to help other devs and regular people.
   
   *im lil lazy, ngl.*
-  
-  ### ill start uploading stuff ***soon***
   
 </div>
