@@ -2,9 +2,10 @@
   
   ## yo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="28" height="28" />
   
-  ### call me **mvok** :P
+  ### call me **mvok**
   
   *i dont do labels like "fullstack" or whatever.*
+  i dont do anything on github cuz im a bum!
   
 
 ---
